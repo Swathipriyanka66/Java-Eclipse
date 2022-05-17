@@ -1,0 +1,12 @@
+package ai.jobiak.lombok.model;
+
+
+public class Customer {
+	
+	
+	private long custId;
+	private String name;
+	private double balance;
+		
+
+}

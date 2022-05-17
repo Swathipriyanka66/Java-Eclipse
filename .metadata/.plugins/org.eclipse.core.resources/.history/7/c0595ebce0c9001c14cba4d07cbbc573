@@ -1,0 +1,17 @@
+import java.util.*;
+package ai.jobiak.colours;
+
+
+
+public class Attempt_2 {
+
+	public static void main(String[] args) {
+		
+		String color[]= {"white", "red", "green", "blue"};
+		Random r = new Random();
+		
+		
+
+	}
+
+}

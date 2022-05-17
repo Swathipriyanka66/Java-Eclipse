@@ -1,0 +1,15 @@
+
+public class ComparingObjects {
+
+	public static void main(String[] args) {
+		// compare an apple with an apple
+		
+		Contact2 contact1 = new Contact2();
+		Contact2 contact2 = new Contact2();
+		
+		boolean result = contact1 == contact2;
+		System.out.println(result);
+
+	}
+
+}

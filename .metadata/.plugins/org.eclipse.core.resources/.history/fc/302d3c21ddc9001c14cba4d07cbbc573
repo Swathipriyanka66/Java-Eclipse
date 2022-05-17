@@ -1,0 +1,13 @@
+package ai.jobiak.colours;
+
+public class AddColours {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String colors[]= {"red","Blue","Black","Green"};
+		String pop[]=new String[1000];
+		
+
+	}
+
+}

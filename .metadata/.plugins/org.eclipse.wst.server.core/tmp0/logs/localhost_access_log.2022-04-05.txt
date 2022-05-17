@@ -1,0 +1,17 @@
+127.0.0.1 - - [05/Apr/2022:15:14:49 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [05/Apr/2022:15:14:49 +0530] "GET /Assessment4/ HTTP/1.1" 404 767
+0:0:0:0:0:0:0:1 - - [05/Apr/2022:15:14:49 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [05/Apr/2022:15:15:06 +0530] "GET /Assessment4/includeaction.jsp HTTP/1.1" 404 743
+0:0:0:0:0:0:0:1 - - [05/Apr/2022:15:15:22 +0530] "GET /Assessment4/includeaction.jsp HTTP/1.1" 404 743
+127.0.0.1 - - [05/Apr/2022:15:16:55 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [05/Apr/2022:15:16:56 +0530] "GET /Assessment4/ HTTP/1.1" 404 767
+0:0:0:0:0:0:0:1 - - [05/Apr/2022:15:17:09 +0530] "GET /Assessment4/includeaction.jsp HTTP/1.1" 404 743
+0:0:0:0:0:0:0:1 - - [05/Apr/2022:15:22:29 +0530] "GET /Assessment4/ HTTP/1.1" 404 767
+0:0:0:0:0:0:0:1 - - [05/Apr/2022:15:22:40 +0530] "GET /Assessment4/includeaction.jsp HTTP/1.1" 404 743
+0:0:0:0:0:0:0:1 - - [05/Apr/2022:16:09:20 +0530] "GET /Assessment4/ HTTP/1.1" 404 767
+0:0:0:0:0:0:0:1 - - [05/Apr/2022:16:09:27 +0530] "GET /Assessment4/contacts.jsp HTTP/1.1" 200 14
+0:0:0:0:0:0:0:1 - - [05/Apr/2022:16:09:31 +0530] "GET /Assessment4/contacts.jsp HTTP/1.1" 200 14
+0:0:0:0:0:0:0:1 - - [05/Apr/2022:16:09:37 +0530] "GET /Assessment4/contacts.html HTTP/1.1" 200 690
+0:0:0:0:0:0:0:1 - - [05/Apr/2022:16:28:52 +0530] "GET /Assessment4/ HTTP/1.1" 404 767
+0:0:0:0:0:0:0:1 - - [05/Apr/2022:16:29:01 +0530] "GET /Assessment4/contacts.html HTTP/1.1" 200 440
+0:0:0:0:0:0:0:1 - - [05/Apr/2022:16:29:10 +0530] "POST /Assessment4/beanaction.jsp HTTP/1.1" 500 2597

@@ -1,0 +1,14 @@
+package ai.jobiak.colours;
+
+import java.util.HashMap;
+
+public class AddColours {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		HashMap<String,Integer> balls=new HashMap<String, Integer>();
+		}
+
+	}
+
+}

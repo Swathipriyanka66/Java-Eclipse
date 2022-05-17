@@ -1,0 +1,9 @@
+package ai.jobiak.lombok.model;
+
+public class Product {		
+		
+		private int productId;
+		private String description;
+		private double price;
+		
+	}
